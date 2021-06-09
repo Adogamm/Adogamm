@@ -19,6 +19,12 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 - Play some sports as soccer or basketball
 
 ### :computer: Programming languages and tools:
+<p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Adogamm/github-readme-stats)
+
+
+
 ![Python](https://img.shields.io/badge/-Python-222?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-222?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-222?style=flat&logo=html5)
