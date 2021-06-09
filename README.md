@@ -3,7 +3,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Adogamm)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/adogamm)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fantasydatacr7@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=Facebook)](https://www.twitch.tv/adogamm)
+[![Facebook](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=Facebook)](https://www.facebook.com/alexis.paez.7547)
+[![Youtube](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCdK5P47Es4q3Zf64X3uXcyQ)
 
 Welcome to my Github! I am Adolfo León and I am studying engineering in software development and management at the technological university of Tulancingo (UTEC)
 
@@ -37,23 +38,4 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![Counter](https://komarev.com/ghpvc/?username=Adogamm)
 
 <p>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=6" />
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!--
-**Adogamm/Adogamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&theme=dracula&langs_count=6" />
