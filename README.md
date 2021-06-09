@@ -2,6 +2,14 @@
 ### I am Adolfo León
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Adogamm)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/adogamm)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fantasydatacr7@gmail.com)
+
+Welcome to my Github! I am Adolfo León and I am studying engineering in software development and management at the technological university of Tulancingo (UTEC)
+
+### 🌱 I am currently working on:
+- Finish my career
+- Taking courses about web development
+- Doing fairly specific projects
 
 <!--
 **Adogamm/Adogamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
