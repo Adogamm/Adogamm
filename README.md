@@ -13,6 +13,19 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 - Taking courses about web development
 - Doing fairly specific projects
 
+### :video_game: My hobbies:
+- I love to play videogames
+- Play guitar or piano
+- Play some sports as soccer or basketball
+
+### :computer: Programming languages and tools:
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
+
 <!--
 **Adogamm/Adogamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
