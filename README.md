@@ -20,8 +20,7 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 
 ### :computer: Programming languages and tools:
 <p>
-
-<img width="50%" align="right" src="https://github.com/Adogamm/github-readme-stats" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Adogamm&show_icons=true&hide_border=true" />
 
 
 
