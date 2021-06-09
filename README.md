@@ -35,7 +35,7 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
 
 <p>
-	<img width="50%" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=6" />
+	<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=6" />
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
