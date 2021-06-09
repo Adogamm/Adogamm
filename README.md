@@ -21,7 +21,7 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ### :computer: Programming languages and tools:
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Adogamm/github-readme-stats)
+<img width="50%" align="right" src="https://github.com/Adogamm/github-readme-stats" />
 
 
 
