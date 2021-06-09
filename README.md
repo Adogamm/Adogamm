@@ -26,6 +26,14 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![CSS](https://img.shields.io/badge/-CSS3-222?style=flat&logo=CSS3)
 ![Dart](https://img.shields.io/badge/-Dart-222?style=flat&logo=Dart)
 
+<br />
+
+![Django](https://img.shields.io/badge/-Django-222?style=flat&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter)
+![Git](https://img.shields.io/badge/-Git-222?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
+
 <!--
 **Adogamm/Adogamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
