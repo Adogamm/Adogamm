@@ -38,4 +38,4 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![Counter](https://komarev.com/ghpvc/?username=Adogamm)
 
 <p>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&theme=dracula&langs_count=6" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&theme=dracula&langs_count=5" />
