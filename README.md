@@ -22,8 +22,6 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&show_icons=true&hide_border=true" />
 
-
-
 ![Python](https://img.shields.io/badge/-Python-222?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-222?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-222?style=flat&logo=html5)
