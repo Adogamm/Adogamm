@@ -6,7 +6,7 @@
 
 Welcome to my Github! I am Adolfo León and I am studying engineering in software development and management at the technological university of Tulancingo (UTEC)
 
-<img align="right" alt="img" src="https://github.com/Adogamm/Adogamm/blob/main/cover-image.jpg?raw=true" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Adogamm/Adogamm/blob/main/cover-image1.jpg?raw=true" width="50%" height="auto" />
 
 ### 🌱 I am currently working on:
 - Finish my career
