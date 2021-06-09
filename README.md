@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### I am Adolfo León
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Adogamm)
-[![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/adogamm)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fantasydatacr7@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github)](https://github.com/Adogamm)
+[![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=flat&logo=Twitch)](https://www.twitch.tv/adogamm)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail)](mailto:fantasydatacr7@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=Facebook)](https://www.twitch.tv/adogamm)
 
 Welcome to my Github! I am Adolfo León and I am studying engineering in software development and management at the technological university of Tulancingo (UTEC)
 
