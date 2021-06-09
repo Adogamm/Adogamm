@@ -19,8 +19,6 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 - Play some sports as soccer or basketball
 
 ### :computer: Programming languages and tools:
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&show_icons=true&hide_border=true" />
 
 ![Python](https://img.shields.io/badge/-Python-222?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-222?style=flat&logo=php)
@@ -35,6 +33,9 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![Git](https://img.shields.io/badge/-Git-222?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Adogamm/Adogamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
