@@ -33,6 +33,7 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![Git](https://img.shields.io/badge/-Git-222?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
+![Counter](https://komarev.com/ghpvc/?username=Adogamm)
 
 <p>
 	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&langs_count=6" />
