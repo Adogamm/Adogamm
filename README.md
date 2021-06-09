@@ -25,7 +25,6 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-222?style=flat&logo=CSS3)
 ![Dart](https://img.shields.io/badge/-Dart-222?style=flat&logo=Dart)
-
 <br />
 
 ![Django](https://img.shields.io/badge/-Django-222?style=flat&logo=django)
