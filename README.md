@@ -14,6 +14,7 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 - Finish my career
 - Taking courses about web development
 - Doing fairly specific projects
+- Giving my best in any activity
 
 ### :video_game: My hobbies:
 - I love to play videogames
@@ -28,6 +29,7 @@ Welcome to my Github! I am Adolfo León and I am studying engineering in softwar
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-222?style=flat&logo=CSS3)
 ![Dart](https://img.shields.io/badge/-Dart-222?style=flat&logo=Dart)
+![Java](https://img.shields.io/badge/-Java-222?style=flat&logo=Java)
 <br />
 
 ![Django](https://img.shields.io/badge/-Django-222?style=flat&logo=django)
