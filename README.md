@@ -6,19 +6,21 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=Facebook)](https://www.facebook.com/alexis.paez.7547)
 [![Youtube](https://img.shields.io/badge/-YouTube-fff?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCdK5P47Es4q3Zf64X3uXcyQ)
 
-Welcome to my Github! I am Adolfo León and I am studying engineering in software development and management at the technological university of Tulancingo (UTEC)
+Welcome to my Github! I am Adolfo León and I am engineer in software development and management, currently part of IDS Commercial.
 
 <img align="right" alt="img" src="https://github.com/Adogamm/Adogamm/blob/main/cover-image1.jpg?raw=true" width="50%" height="auto" />
 
 ### 🌱 I am currently working on:
-- Finish my career
+- Improve my code abilities
 - Taking courses about web development
-- Doing fairly specific projects
+- Learn about I4.0
+- Learning basic AI principles
 - Giving my best in any activity
 
 ### :video_game: My hobbies:
 - I love to play videogames
 - Play guitar or piano
+- Hang out with friends
 - Play some sports as soccer or basketball
 
 ### :computer: Programming languages and tools:
