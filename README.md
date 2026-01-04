@@ -76,17 +76,11 @@ I am currently working at **IDS Comercial**, assigned to critical projects in th
 </div>
 
 <div align="center">
-  <h3>🔥 Consistency & Languages</h3>
-  <a href="https://github.com/Adogamm">
-    <img src="https://streak-stats.demolab.com?user=Adogamm&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-  
-  <br/>
-  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E91E6&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Spring+Boot+%26+OpenShift;Banking+%26+Fintech+Specialist;Building+Robust+Backends" alt="Typing SVG" />
+</div>
 
-  <a href="https://github.com/Adogamm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" />
-  </a>
+<div align="center">
+  <p>Software Engineer specialized in high-performance Java ecosystems and cloud-native migrations.</p>
 </div>
 
 <div align="center">
