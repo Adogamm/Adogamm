@@ -1,45 +1,86 @@
-### Hi there 👋
-### I am Adolfo León
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Adogamm)
-[![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/adogamm)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fantasydatacr7@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=Facebook)](https://www.facebook.com/alexis.paez.7547)
-[![Youtube](https://img.shields.io/badge/-YouTube-fff?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCdK5P47Es4q3Zf64X3uXcyQ)
+<div align="center">
+  <h1 align="center">Hi there 👋, I'm Adolfo León</h1>
+  <h3 align="center">🚀 Java Full Stack Developer | Banking & Fintech Specialist</h3>
+  
+  <p align="center">
+    Software Engineer with 5+ years of experience building robust backend architectures and modernizing legacy systems for top-tier financial institutions like <b>CitiBanamex</b> and <b>Santander</b>.
+  </p>
 
-Welcome to my Github! I am Adolfo León and I am engineer in software development and management, currently part of IDS Commercial.
+  <br/>
 
-<img align="right" alt="img" src="https://github.com/Adogamm/Adogamm/blob/main/cover-image1.jpg?raw=true" width="50%" height="auto" />
+  <div>
+    <a href="https://github.com/Adogamm" target="_blank">
+      <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github" />
+    </a>
+    <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:adogammleba@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </div>
+</div>
 
-### 🌱 I am currently working on:
-- Improve my code abilities
-- Taking courses about web development
-- Learn about I4.0
-- Learning basic AI principles
-- Giving my best in any activity
+<hr/>
 
-### :video_game: My hobbies:
-- I love to play videogames
-- Play guitar or piano
-- Hang out with friends
-- Play some sports as soccer or basketball
+### 👨‍💻 About Me
 
-### :computer: Programming languages and tools:
+I am currently working at **IDS Comercial**, assigned to critical projects in the banking sector. My core expertise lies in high-performance Java ecosystems and cloud-native migrations.
 
-![Python](https://img.shields.io/badge/-Python-222?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-222?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-222?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS3-222?style=flat&logo=CSS3)
-![Dart](https://img.shields.io/badge/-Dart-222?style=flat&logo=Dart)
-![Java](https://img.shields.io/badge/-Java-222?style=flat&logo=Java)
-<br />
+- 🔭 **I’m currently working on:** Migrating legacy core banking modules to **Java 17** and optimizing microservices on **OpenShift**.
+- 🌱 **I’m currently exploring:** Advanced Cloud Architectures and AI integration in Fintech.
+- ⚡ **Fun fact:** I love connecting technology with music; when I'm not coding, I'm playing the guitar or piano.
 
-![Django](https://img.shields.io/badge/-Django-222?style=flat&logo=django)
-![Flutter](https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter)
-![Git](https://img.shields.io/badge/-Git-222?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
-![Counter](https://komarev.com/ghpvc/?username=Adogamm)
+### 🛠️ Tech Stack
 
+**Backend & Core:**
 <p>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&theme=dracula&langs_count=5" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-181717?style=flat-square&logo=micro-services&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+**DevOps & Tools:**
+<p>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIBCO-204173?style=flat-square&logo=tibco&logoColor=white" />
+</p>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adogamm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&layout=compact&theme=tokyonight&langs_count=6"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adogamm&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <a href="https://www.twitch.tv/adogamm">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCdK5P47Es4q3Zf64X3uXcyQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
