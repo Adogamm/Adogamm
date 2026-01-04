@@ -60,11 +60,11 @@ I am currently working at **IDS Comercial**, assigned to critical projects in th
   <img src="https://img.shields.io/badge/TIBCO-204173?style=flat-square&logo=tibco&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adogamm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&layout=compact&theme=tokyonight&langs_count=6"/>
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Adogamm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
 <br/>
