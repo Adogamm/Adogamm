@@ -61,6 +61,35 @@ I am currently working at **IDS Comercial**, assigned to critical projects in th
 </p>
 
 <div align="center">
+  <h3>📊 My Dev Metrics</h3>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adogamm&theme=tokyonight" />
+  </p>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adogamm&theme=tokyonight" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adogamm&theme=tokyonight" />
+  </p>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adogamm&theme=tokyonight" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adogamm&theme=tokyonight" />
+  </p>
+</div>
+
+<div align="center">
+  <h3>🔥 Consistency & Languages</h3>
+  <a href="https://github.com/Adogamm">
+    <img src="https://streak-stats.demolab.com?user=Adogamm&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <a href="https://github.com/Adogamm">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" />
+  </a>
+</div>
+
+<div align="center">
   <h3>🏆 Achievements</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Adogamm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
